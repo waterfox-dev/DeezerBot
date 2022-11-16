@@ -1,0 +1,4 @@
+{
+    "test.ping" : "Ping !",
+    "test.hello" : "hello {str.1} and {str.2} vous avez {int.1} ans"
+}
